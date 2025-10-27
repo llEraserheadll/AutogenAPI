@@ -301,6 +301,7 @@ If you encounter any issues:
 
 
 
-**Made with ❤️ for the FastAPI community**
+**Made with ❤️ for the vibea coders community**
 
 *Happy coding! 🎉 Your API documentation will never be out of sync again!*
+
